@@ -27,4 +27,4 @@ Hospit août 2017
 
 
 #jeteste
-![[Pasted image 20250821185802.png]]
+![[image.jpg]]
