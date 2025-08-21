@@ -24,7 +24,3 @@ Chir le 6/4
 
 #BILSKI
 Hospit août 2017
-
-
-#jeteste
-![](../media/image/test.png)
