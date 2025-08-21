@@ -21,3 +21,6 @@ Sortie le 3/3/18
 Adalimumab le 20/3/18
 Réhospit le 3/4
 Chir le 6/4
+
+#BILSKI
+Hospit août 2017
