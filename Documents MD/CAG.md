@@ -52,3 +52,14 @@
 ---
 
 ## GANANCA
+
+- 01/19 : poussée sous ortico
+- 4/19 : Tofa, amélioration partielle 
+- 2/7 : amélioration
+- Chirurgie "programmée"
+
+## HACVILLE
+- poussée en juin 18 traitée par CTC + ciclosporine
+- Rémission persistante sous Védo de fond
+- Nouvelle poussée = traitement par CTC puis chirurgie
+![](../media/image/port%20blanc.png)
