@@ -1,4 +1,4 @@
-#DANTROU
+bsi#DANTROU
 #CEMSAH
 20/11/25 : 
 Corticoïdes le 20/11
@@ -24,3 +24,10 @@ Chir le 6/4
 
 #BILSKI
 Hospit août 2017
+
+#TOUHIRI
+Hospit fin avril 18
+Arrêt juillet 18 CTC
+28/0/18
+
+![](../media/image/CAG-1755842466330.jpeg)
