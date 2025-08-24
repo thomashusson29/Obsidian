@@ -62,4 +62,11 @@
 - poussée en juin 18 traitée par CTC + ciclosporine
 - Rémission persistante sous Védo de fond
 - Nouvelle poussée = traitement par CTC puis chirurgie
-![](../media/image/port%20blanc.png)
+
+## DURAND
+25/8 - 21/9 : CAG traitement par CTC puis Infliximab 29/8 amélioration partielle
+
+rehospit 25/11
+cortico IV
+CMV positif
+Vedolizumab 5/12 Améliroation sortie 6/12
