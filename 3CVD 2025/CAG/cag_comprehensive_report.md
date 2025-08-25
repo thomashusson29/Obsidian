@@ -1,4 +1,4 @@
-# Le phénomène de contrôle partiel transitoire dans les colites aiguës graves : Une nouvelle entité clinique créée par les thérapeutiques modernes
+# Le phénomène de contrôle partiel transitoire dans les colites aiguës graves : Une nouvelle entité clinique créée par les thérapeutiques modernes--
 
 ## Analyse exhaustive de 37 patients opérés d'une colectomie subtotale pour CAG (2014-2024)
 
